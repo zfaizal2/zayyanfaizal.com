@@ -1,7 +1,7 @@
 :root {
 	--turkey: #E8E9EA;
 	--white: white;
-	--blue: #13294b ;
+	--blue: #0455A4 ;
 }
 
 *, *:before, *:after {
@@ -19,7 +19,7 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--turkey);
+	background-color: var(--white);
 }
 
 main {
