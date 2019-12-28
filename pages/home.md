@@ -7,7 +7,7 @@ navtitle: Home
 tags:
   - nav
 ---
-# Hi, I'm Zayyan Faizal.
+# Hi, I'm Zayyan.
 
 I'm a Systems Engineering & Design student with a Computer Science specialization at the University of Illinois at Urbana-Champaign. Here you can find some of my previous projects, Medium blog posts, and designs.
 
