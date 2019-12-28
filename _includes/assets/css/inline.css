@@ -47,11 +47,11 @@ footer {
 	padding: 1em;
 }
 
-li {
+footer li {
 	display: inline;
-	padding: 20px;
+	padding: 10px;
   	font-size: 30px;
-  	width: 50px;
+  	width: 80px;
   	text-align: center;
   	text-decoration: none;
   	margin: 5px 2px;
