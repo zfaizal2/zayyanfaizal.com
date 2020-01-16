@@ -22,6 +22,6 @@ from red to green to reflect optimal ranges. A red box indicate to the combine o
 Our team used HTML, Python, and JavaScript to build this web platform. 
 
 
-Below are some screenshots from the interface. 
+Below is a screenshots from the interface. 
 
 ![AgSense](agsense.png)

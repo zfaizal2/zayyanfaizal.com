@@ -12,4 +12,4 @@ For the final project of my CS 125 class, my friend and I decided to solve the p
 
 For a student, simply open the app and put your name in. A message will appear showing that your name is in the queue and will be matched with the next TA. TAs and CAs login to the app to verify non-student status and will automatically start being matched with students. The TA/CA will announce the name of the student and the student will identify themselves. Once a TA/CA needs to leave, they can log out to stop the matching. 
 
-Our team used Java and Android Studio for the app development and a Firebase database to keep track of the queue. You can watch a video ![here](https://www.youtube.com/watch?v=wywXk4gEV3A&t=6s) for a more detailed explanation. 
+Our team used Java and Android Studio for the app development and a Firebase database to keep track of the queue. You can watch a video <a href="https://www.youtube.com/watch?v=wywXk4gEV3A&t=6s">here</a> for a more detailed explanation. 
