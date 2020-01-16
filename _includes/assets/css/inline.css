@@ -57,6 +57,10 @@ footer li {
   	margin: 5px 2px;
 }
 
+footer small {
+    padding: 10px;
+}
+
 main {
 	padding-bottom: 2em;
 }
