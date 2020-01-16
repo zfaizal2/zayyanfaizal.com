@@ -20,8 +20,3 @@ Important parameters of the combine were organized by groups such as efficiency,
 from red to green to reflect optimal ranges. A red box indicate to the combine operator to change that parameter for performance. 
 
 Our team used HTML, Python, and JavaScript to build this web platform. 
-
-
-Below is a screenshots from the interface. 
-
-![AgSense](agsense.png)
