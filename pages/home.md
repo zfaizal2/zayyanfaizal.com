@@ -11,4 +11,4 @@ tags:
 
 I'm a Systems Engineering & Design student with a Computer Science specialization at the University of Illinois at Urbana-Champaign. Here you can find some of my previous projects, Medium blog posts, and designs.
 
-Currently, I'm working on PerForm: Perfect Form which is a mobile app which provides instant, actionable feedback on weight lifting technique to minimize injuries and maximize performance. If you're interested in fitness, biomechanics, entrepreneurship, or computer vision, feel free to reach out. 
+I'm currently involved with [Hack4Impact](https://uiuc.hack4impact.org/) as a product designer to build software for non-profits and [Alpha Phi Omega](apo-aa.org) where I spend my time giving back to the community. 
